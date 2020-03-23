@@ -1,2 +1,3 @@
 projemin birinci dosyası 
 yeni dal düzenlemesi
+yeni dala ikinci olarak bir düzenleme ekledim
