@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "kelime": "example",
+        "ornek": "examples more easier that learn an object",
+        "turkce": "örnek"
+    },
+    {
+        "id": 2,
+        "kelime": "book",
+        "ornek": "book is read by people in order to learn something",
+        "turkce": "kitap"
+    },
+    {
+        "id": 3,
+        "kelime": "pencil",
+        "ornek": "people use pens so they don't forget something",
+        "turkce": "kalem"
+    }
+]
